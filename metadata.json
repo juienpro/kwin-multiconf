@@ -1,0 +1,22 @@
+{
+    "KPlugin": {
+        "Name": "KWin multiconf",
+        "Description": "A KDE6 KWin script to bind windows placement to keybindings or monitor events",
+        "Icon": "preferences-system-windows",
+        
+        "Authors": [
+            {
+                "Email": "contact@julienpro.com",
+                "Name": "Julien Pro"
+            }
+        ],
+        "Id": "kwin-multiconf",
+        "Version": "1.0",
+        "License": "GPLv3",
+        "Website": "https://github.com/username/myscript"
+    },
+    "X-Plasma-API": "javascript",
+    "X-Plasma-MainScript": "code/main.js",
+    "KPackageStructure": "KWin/Script",
+    "X-KDE-ConfigModule": "kwin/effects/configs/kcm_kwin4_genericscripted"
+}

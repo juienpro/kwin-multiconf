@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0">
+    <kcfgfile name=""/>
+    <group name="">
+        <entry name="debug_enabled" type="bool"><default>false</default></entry>
+        <!-- <entry name="conf1_enabled" type="bool"><default>false</default></entry> -->
+
+        <entry name="conf1_trigger_keybinding" type="bool"><default>false</default></entry>
+        <entry name="conf1_trigger_nmonitors" type="bool"><default>false</default></entry>
+        <entry name="conf1_trigger_monitor_name" type="bool"><default>false</default></entry>
+        <entry name="conf1_keybinding" type="string"><default></default></entry>
+        <entry name="conf1_nmonitors" type="string"><default></default></entry>
+        <entry name="conf1_monitor_name" type="string"><default></default></entry>
+        <entry name="conf1_rules" type="string"><default></default></entry>
+
+        <entry name="conf2_trigger_keybinding" type="bool"><default>false</default></entry>
+        <entry name="conf2_trigger_nmonitors" type="bool"><default>false</default></entry>
+        <entry name="conf2_trigger_monitor_name" type="bool"><default>false</default></entry>
+        <entry name="conf2_keybinding" type="string"><default></default></entry>
+        <entry name="conf2_nmonitors" type="string"><default></default></entry>
+        <entry name="conf2_monitor_name" type="string"><default></default></entry>
+        <entry name="conf2_rules" type="string"><default></default></entry>
+
+        <entry name="conf3_trigger_keybinding" type="bool"><default>false</default></entry>
+        <entry name="conf3_trigger_nmonitors" type="bool"><default>false</default></entry>
+        <entry name="conf3_trigger_monitor_name" type="bool"><default>false</default></entry>
+        <entry name="conf3_keybinding" type="string"><default></default></entry>
+        <entry name="conf3_nmonitors" type="string"><default></default></entry>
+        <entry name="conf3_monitor_name" type="string"><default></default></entry>
+        <entry name="conf3_rules" type="string"><default></default></entry>
+
+        <entry name="conf4_trigger_keybinding" type="bool"><default>false</default></entry>
+        <entry name="conf4_trigger_nmonitors" type="bool"><default>false</default></entry>
+        <entry name="conf4_trigger_monitor_name" type="bool"><default>false</default></entry>
+        <entry name="conf4_keybinding" type="string"><default></default></entry>
+        <entry name="conf4_nmonitors" type="string"><default></default></entry>
+        <entry name="conf4_monitor_name" type="string"><default></default></entry>
+        <entry name="conf4_rules" type="string"><default></default></entry>
+
+        <entry name="conf5_trigger_keybinding" type="bool"><default>false</default></entry>
+        <entry name="conf5_trigger_nmonitors" type="bool"><default>false</default></entry>
+        <entry name="conf5_trigger_monitor_name" type="bool"><default>false</default></entry>
+        <entry name="conf5_keybinding" type="string"><default></default></entry>
+        <entry name="conf5_nmonitors" type="string"><default></default></entry>
+        <entry name="conf5_monitor_name" type="string"><default></default></entry>
+        <entry name="conf5_rules" type="string"><default></default></entry>
+
+        <entry name="conf6_trigger_keybinding" type="bool"><default>false</default></entry>
+        <entry name="conf6_trigger_nmonitors" type="bool"><default>false</default></entry>
+        <entry name="conf6_trigger_monitor_name" type="bool"><default>false</default></entry>
+        <entry name="conf6_keybinding" type="string"><default></default></entry>
+        <entry name="conf6_nmonitors" type="string"><default></default></entry>
+        <entry name="conf6_monitor_name" type="string"><default></default></entry>
+        <entry name="conf6_rules" type="string"><default></default></entry>
+    </group>
+</kcfg>
