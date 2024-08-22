@@ -72,6 +72,8 @@ On my computer, I've always the same order for the screens when I dock my comput
 
 If you don't have numbers in your virtual desktop's names, you can put a string. For instance, `desktop=Dev` will match the first desktop containing "Dev" (case-sensitive). 
 
+To force a window to be displayed on all desktops, juste type `desktop=all`
+
 #### Parameter: maximized
 
 You can use either `maximized` alone to maximize a window, or `maximized=true` according to your preference. Both are same. 
