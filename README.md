@@ -1,5 +1,7 @@
 # KWIN Multiconf
 
+![](screen.png)
+
 **KWin Multiconf** is a KWin script for KDE 6 that allows you to manipulate windows and associate each configuration to a keybinding, or to a trigger linked to the monitors connected or disconnected.
 
 For instance, KDE does not allow - currently - to have different configurations when your laptop is docked or undocked. This issue is solved by this script.
