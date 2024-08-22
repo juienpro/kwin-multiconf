@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>764</width>
-    <height>523</height>
+    <height>550</height>
    </rect>
   </property>
   <property name="sizePolicy">
@@ -406,7 +406,7 @@
             </widget>
            </item>
            <item>
-            <widget class="QPlainTextEdit" name="kcfg_conf1_rules_2">
+            <widget class="QPlainTextEdit" name="kcfg_conf2_rules">
              <property name="sizePolicy">
               <sizepolicy hsizetype="Expanding" vsizetype="Fixed">
                <horstretch>0</horstretch>
@@ -605,7 +605,7 @@
             </widget>
            </item>
            <item>
-            <widget class="QPlainTextEdit" name="kcfg_conf1_rules_3">
+            <widget class="QPlainTextEdit" name="kcfg_conf3_rules">
              <property name="sizePolicy">
               <sizepolicy hsizetype="Expanding" vsizetype="Fixed">
                <horstretch>0</horstretch>
@@ -804,7 +804,7 @@
             </widget>
            </item>
            <item>
-            <widget class="QPlainTextEdit" name="kcfg_conf1_rules_4">
+            <widget class="QPlainTextEdit" name="kcfg_conf4_rules">
              <property name="sizePolicy">
               <sizepolicy hsizetype="Expanding" vsizetype="Fixed">
                <horstretch>0</horstretch>
@@ -1003,7 +1003,7 @@
             </widget>
            </item>
            <item>
-            <widget class="QPlainTextEdit" name="kcfg_conf1_rules_5">
+            <widget class="QPlainTextEdit" name="kcfg_conf5_rules">
              <property name="sizePolicy">
               <sizepolicy hsizetype="Expanding" vsizetype="Fixed">
                <horstretch>0</horstretch>
@@ -1202,7 +1202,7 @@
             </widget>
            </item>
            <item>
-            <widget class="QPlainTextEdit" name="kcfg_conf1_rules_6">
+            <widget class="QPlainTextEdit" name="kcfg_conf6_rules">
              <property name="sizePolicy">
               <sizepolicy hsizetype="Expanding" vsizetype="Fixed">
                <horstretch>0</horstretch>

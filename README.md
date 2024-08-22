@@ -137,3 +137,9 @@ It's better to keep the log files enabled to troubleshoot any issue, at least fo
 The logs can be read with: `journalctl -f -g js`
 
 If you have an issue, open an issue on Github with the log files and your configuration. 
+
+### Keybindings not registering/not working
+
+Sometimes the keybindings are not registered when they are set up and then changed.
+
+If this happens, see the following issue: https://github.com/juienpro/kwin-multiconf/issues/2
