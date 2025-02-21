@@ -34,7 +34,13 @@ function searchDesktop(desktop) {
 }
 
 function moveWindowToScreen(window, screen) {
-  workspace.sendClientToScreen(window, workspace.screens[screen-1])
+  if (workspace.screens.length >= screen) {
+    debug("Screen length : "+workspace.screens.length)
+    debug("Effective move to screen "+screen)
+    workspace.sendClientToScreen(window, workspace.screens[screen-1])
+  } else {
+    debug("Screen "+screen+" not found. Did you make an error in the configuration?")
+  }
 }
 
 function maximizeWindow(window) {
